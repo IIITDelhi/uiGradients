@@ -1,5 +1,11 @@
 [
-     {
+     
+  
+  {
+    "name":"Soluties",
+    "colors":["#281499" , "#29badb"]
+  },
+  {
         "name": "Mango",
         "colors": ["#ffe259", "#ffa751"]
     },
